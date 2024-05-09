@@ -1,0 +1,5 @@
+/*!
+ *  copyright: sunzhiyang 975263179@qq.com 
+ *  time:  2022-1-12 08:34:23
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-df6beb5a"],{"072b":function(e,t,c){"use strict";c.r(t);var n=c("c1b8"),a=(c("7f44"),c("b9bd"),c("f2bf")),r={class:"searchInfor w"},o={class:"breadcrumb"},b=Object(a["createTextVNode"])("首页"),d=Object(a["createTextVNode"])("查询资讯信息");function u(e,t){var c=n["b"],u=n["a"];return Object(a["openBlock"])(),Object(a["createElementBlock"])("div",r,[Object(a["createElementVNode"])("div",o,[Object(a["createVNode"])(u,{separator:">"},{default:Object(a["withCtx"])((function(){return[Object(a["createVNode"])(c,{to:"/home"},{default:Object(a["withCtx"])((function(){return[b]})),_:1}),Object(a["createVNode"])(c,null,{default:Object(a["withCtx"])((function(){return[d]})),_:1})]})),_:1})])])}c("28a8");var f=c("6b0d"),i=c.n(f);const s={},l=i()(s,[["render",u],["__scopeId","data-v-a4c850a0"]]);t["default"]=l},"28a8":function(e,t,c){"use strict";c("8468")},8468:function(e,t,c){}}]);
